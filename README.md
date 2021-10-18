@@ -29,6 +29,8 @@
 * git fetch : used to gather any commits from remote branch and keep them in your local repository. A merge won’t be initiated. If you use git fetch instead of git pull, make sure to git merge later.
 * git reset --hard : used to move the HEAD pointer and active branch pointer to the recent commit which exists on remote tracking branch.
 * git log : used to show the list of commits made to a git repository.
+* git diff : used to show any uncomitted changes in local repository.
+* git diff branch1..branch2 : used to show file differences between two branches
  
 
 
