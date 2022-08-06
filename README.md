@@ -31,6 +31,8 @@
 * `git log` : used to show the list of commits made to a git repository.
 * `git diff` : used to show any uncomitted changes in local repository.
 * `git diff branch1..branch2` : used to show file differences between two branches
+* `git commit --amend or git commit --amend --no-edit` : Adding more changes to your last commit
+* `git push -f origin some_branch` - force push changes
  
 
 
